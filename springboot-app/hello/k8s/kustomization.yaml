@@ -9,4 +9,4 @@ resources:
 images:
 - name: bbutterlife/hello-app
   newName: bbutterlife/hello-app
-  newTag: 701a2a1
+  newTag: 762a2c0
